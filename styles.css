@@ -1,0 +1,21 @@
+.card-title {
+    font-size: clamp(2.625rem, 2.229rem + 1.268vw, 3.75rem);
+    font-size: 60px;
+}
+.card-subtitle {
+    font-size: clamp(1.75rem, 1.266rem + 1.549vw, 3.125rem);
+}
+.card-text {
+    font-size: clamp(1.125rem, 0.729rem + 1.268vw, 2.25rem);
+}
+
+
+.title-container {
+    max-height: 180px;
+}
+.subtitle-container {
+    max-height: 100px;
+}
+.text-container {
+    max-height: 500px;
+}
